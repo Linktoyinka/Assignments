@@ -3,7 +3,7 @@
 
 ## 🚀 About Week 3 Second Project
 Week 3 Task from by Zuri designed by me is a
-project consisting of two project
+project consisting of two project.
 
 ## Project Detail
 ### Portfolio 

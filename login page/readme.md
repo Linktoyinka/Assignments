@@ -4,7 +4,7 @@
 
 ## 🚀 About Week 3 Second Project
 Week 3 second project from by Zuri designed by me is a
-project consisting of three task
+project consisting of three task.
 
 - Login page
 - Sign up/Registration page
