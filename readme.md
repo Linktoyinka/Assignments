@@ -1,7 +1,7 @@
 
 # Hi, Welcome! 👋
 
-## 🚀 About Week 3 Second Project
+## 🚀 About Week 3 Project
 Week 3 Task from by Zuri designed by me is a
 project consisting of two project.
 
