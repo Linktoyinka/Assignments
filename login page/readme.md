@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Week 3 Second Project
-Week 4 Task from by Zuri designed by me is a
+Week 3 second project from by Zuri designed by me is a
 project consisting of three task
 
 - Login page

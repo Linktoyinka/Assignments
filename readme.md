@@ -1,6 +1,9 @@
 
 # Hi, Welcome! 👋
 
+## 🚀 About Week 3 Second Project
+Week 3 Task from by Zuri designed by me is a
+project consisting of two project
 
 ## Project Detail
 ### Portfolio 
@@ -15,7 +18,7 @@ This is porfolio project which was designed stricly to instruction given which a
 - Login page
 - Sign up/Registration page
 - Login success page
-### Details
+#### Details
 - Login Page
 A simple html and css page that accept users email and passowrd to login into a webpage/dashboard
 

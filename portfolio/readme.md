@@ -3,7 +3,8 @@
 
 
 ## 🚀 About Week 3 First Project
-Week 3 Task from by Zuri designed by me.
+Week 3 first project from by Zuri designed by me is a
+portfolio project
 
 ### Project Detail
 - Portfolio 
