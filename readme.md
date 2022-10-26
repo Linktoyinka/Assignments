@@ -2,10 +2,16 @@
 # Hi, Welcome! 👋
 
 
-## 🚀 About Week 3 Second Project
-Week 4 Task from by Zuri designed by me is a
-project consisting of three task
+## Project Detail
+### Portfolio 
+This is porfolio project which was designed stricly to instruction given which are:
+- The header menu must link to part of the page
+- A separate page for contact us and to open on new tab
+- Displaying previous project I've wored on
+- Adding a picture where visible
 
+
+### Login page
 - Login page
 - Sign up/Registration page
 - Login success page

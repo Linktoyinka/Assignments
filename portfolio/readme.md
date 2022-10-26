@@ -2,7 +2,7 @@
 # Hi, Welcome! 👋
 
 
-## 🚀 About Week 3 Project
+## 🚀 About Week 3 First Project
 Week 3 Task from by Zuri designed by me.
 
 ### Project Detail
