@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@400;700&display=swap');
+
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Spectral', serif;
+    background-color: #939393;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.wrap {
+    height: 90vh;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5vh;
+       
+}
+
+.success {
+    height: 200px;
+    width: 200px;
+    background-color: #18345E;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+img {
+    
+    height: 6em;
+    width: auto;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
